@@ -35,7 +35,8 @@ func birthdayCakeCandles(candles []int32) int32 {
 }
 
 func main() {
-	candles := []int32{1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1}
+	candles := []int32{1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+		1, 1, 1, 1, 1, 1, 1, 1, 1}
 
 	result := birthdayCakeCandles(candles)
 
